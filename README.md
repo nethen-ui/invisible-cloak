@@ -59,13 +59,13 @@ The HSV color range can be adjusted to experiment with detecting other colors.
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/nethen-ui/invisible-cloak
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd <repository-folder>
+   cd invisible-cloak
    ```
 
 3. Install the dependencies:
